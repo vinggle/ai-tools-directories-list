@@ -14,6 +14,8 @@ Ensure all 4 columns are filled: Directory, Website / Submission, Focus / Catego
 
 Submit a Pull Request for review.
 
+---
+
 **🌐 AI Directories**
 
 | Directory | Website / Submission | Focus / Category | Description |
