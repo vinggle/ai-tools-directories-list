@@ -2,7 +2,7 @@
 
 A curated list of AI tool directories, discovery platforms, and submission sites to promote and discover AI software, productivity tools, and new startups.
 
-📌 How to Contribute
+📌 **How to Contribute**
 
 We welcome community contributions! If you run or know an AI directory that should be added:
 
@@ -14,4 +14,4 @@ Ensure all 4 columns are filled: Directory, Website / Submission, Focus / Catego
 
 Submit a Pull Request for review.
 
-🌐 AI Directories
+**🌐 AI Directories**
