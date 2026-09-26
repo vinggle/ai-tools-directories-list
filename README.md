@@ -6,7 +6,7 @@ A curated list of AI tool directories, discovery platforms, and submission sites
 
 We welcome community contributions! If you run or know an AI directory that should be added:
 
-Fork this repository.
+**Fork this repository.**
 
 Add your directory to the table below in alphabetical order.
 
