@@ -1,18 +1,20 @@
 # AI Tools Directories List – Submit & Discover AI Platforms
 
-A curated list of AI tool directories, discovery platforms, and submission sites to promote and discover AI software, productivity tools, and new startups.
+A comprehensive, community-driven catalog of the best AI tool directories, discovery engines, and software submission portals. 
+
+Whether you are launching a new AI SaaS, looking for early traction, or exploring established software directories to build SEO backlinks and reach active tech adopters, this repository brings together vetted platforms across all major categories (Productivity, Marketing, Generative Media, Code, and Founder utilities).
 
 📌 **How to Contribute**
 
 We welcome community contributions! If you run or know an AI directory that should be added:
 
-**Fork this repository.**
+- Fork this repository.
 
-Add your directory to the table below in alphabetical order.
+- Add your directory to the table below in alphabetical order.
 
-Ensure all 4 columns are filled: Directory, Website / Submission, Focus / Category, and a concise Description.
+- Ensure all 4 columns are filled: Directory, Website / Submission, Focus / Category, and a concise Description.
 
-Submit a Pull Request for review.
+- Submit a Pull Request for review.
 
 ---
 
@@ -20,7 +22,7 @@ Submit a Pull Request for review.
 
 | Directory | Website / Submission | Focus / Category | Description |
 | :--- | :--- | :--- | :--- |
-| **Vinggle** | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
+| **Vinggle** `[Featured]` | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
 | AIcyclopedia | [aicyclopedia.com](https://aicyclopedia.com/submit) | General AI Directory | Large directory curating thousands of AI applications, tools, and resources. |
 | AI Scout | [aiscout.net](https://aiscout.net/submit-a-tool/) | Tool Discovery | Search engine and directory covering diverse categories of artificial intelligence. |
 | AI Tool Hunt | [aitoolhunt.com](https://aitoolhunt.com) | AI Search Engine | Platform indexing generative AI solutions and emerging software for creators. |
