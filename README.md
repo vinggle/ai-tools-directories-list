@@ -22,7 +22,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 
 | Directory | Website / Submission | Focus / Category | Description |
 | :--- | :--- | :--- | :--- |
-| **Vinggle** `[Featured]` | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
+| **Vinggle** ![Featured](https://img.shields.io/badge/Featured-FF5722?style=flat-square&logoColor=white) | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
 | AIcyclopedia | [aicyclopedia.com](https://aicyclopedia.com/submit) | General AI Directory | Large directory curating thousands of AI applications, tools, and resources. |
 | AI Scout | [aiscout.net](https://aiscout.net/submit-a-tool/) | Tool Discovery | Search engine and directory covering diverse categories of artificial intelligence. |
 | AI Tool Hunt | [aitoolhunt.com](https://aitoolhunt.com) | AI Search Engine | Platform indexing generative AI solutions and emerging software for creators. |
