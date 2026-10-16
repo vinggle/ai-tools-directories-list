@@ -16,6 +16,8 @@ We welcome community contributions! If you run or know an AI directory that shou
 
 - Submit a Pull Request for review.
 
+- Support us with a +Star.
+
 ---
 
 **🌐 AI Directories**
