@@ -35,6 +35,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | FutureTools | [futuretools.io](https://futuretools.io) | Curated AI Tools | Well-known directory curating the most useful AI tools across industries. |
 | Insidr AI | [insidr.ai](https://insidr.ai) | Business Productivity | Resource hub reviewing modern AI solutions for digital creators and businesses. |
 | Product Hunt | [producthunt.com](https://producthunt.com) | Tech Product Launches | Leading global launchpad for new technology, software, and AI startups. |
+| Public Prompts | [publicprompts.art](https://www.publicprompts.art/) | Curated AI Tools & Resources | Free browsing of AI tools, prompts and models. Owner submissions: US$19.99 once plus tax before editorial review; accepted listings within two days of payment, rejection refunds, nofollow links. |
 | SaaS AI Tools | [saasaitools.com](https://saasaitools.com) | SaaS & B2B Tools | Dedicated platform listing enterprise and consumer software powered by AI. |
 | StartupBase | [startupbase.io](https://startupbase.io) | Startup Community | Platform for discovering early-stage founders, startup products, and tech launches. |
 | There's An AI For That | [theresanaiforthat.com](https://theresanaiforthat.com) | Comprehensive Directory | High-volume directory categorizing AI tools for virtually any task or workflow. |
