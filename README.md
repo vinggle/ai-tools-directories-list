@@ -25,7 +25,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | Directory | Website | Focus / Category | Description |
 | :--- | :--- | :--- | :--- |
 | **Vinggle** ![Featured](https://img.shields.io/badge/Featured-FF5722?style=flat-square&logoColor=white) | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
-| **AI Tools Directory** ![Featured]| [aitoolsdirectory.si](https://aitoolsdirectory.si) | AI Tools Discovery | Curated directory of the best AI tools, organized by category for easy discovery and submission. |
+| **AI Tools Directory** ![Featured](https://img.shields.io/badge/Featured-FF5722?style=flat-square&logoColor=white) | [aitoolsdirectory.si](https://aitoolsdirectory.si) | AI Tools Discovery | Curated directory of the best AI tools, organized by category for easy discovery and submission. |
 | 51发现导航 (51 Nav) | [51cgw9.cc](https://51cgw9.cc) | Chinese AI Tools & Websites | Chinese-language AI tools directory with China-access and free-tier labels; free submissions. |
 | AI Tools Radar | [aitoolsradar.com](https://aitoolsradar.com/) | Multilingual AI Discovery | Discover and compare AI tools, models, agent skills, and prompts, with industry news and newsletters. |
 | AI Valley | [aivalley.ai](https://aivalley.ai) | Daily AI Tools | Daily updated repository of AI platforms, prompt tools, and startup launches. |
