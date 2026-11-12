@@ -37,6 +37,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | Futurepedia | [futurepedia.io](https://futurepedia.io) | AI Ecosystem | Major platform tracking, indexing, and categorizing verified AI software. |
 | FutureTools | [futuretools.io](https://futuretools.io) | Curated AI Tools | Well-known directory curating the most useful AI tools across industries. |
 | Insidr AI | [insidr.ai](https://insidr.ai) | Business Productivity | Resource hub reviewing modern AI solutions for digital creators and businesses. |
+| LibreAI | https://libreaihub.vercel.app | Open-Source AI Directory | Showcase of 2,068 open-source AI projects, every one verified against GitHub, organised into 17 categories with install guides. No paid listings. |
 | Product Hunt | [producthunt.com](https://producthunt.com) | Tech Product Launches | Leading global launchpad for new technology, software, and AI startups. |
 | SaaS AI Tools | [saasaitools.com](https://saasaitools.com) | SaaS & B2B Tools | Dedicated platform listing enterprise and consumer software powered by AI. |
 | StartupBase | [startupbase.io](https://startupbase.io) | Startup Community | Platform for discovering early-stage founders, startup products, and tech launches. |
