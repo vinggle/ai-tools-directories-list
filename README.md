@@ -31,6 +31,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | AI Valley | [aivalley.ai](https://aivalley.ai) | Daily AI Tools | Daily updated repository of AI platforms, prompt tools, and startup launches. |
 | AlternativeTo | [alternativeto.net](https://alternativeto.net) | Software Alternatives | Crowdsourced platform highlighting software alternatives and AI tools. |
 | BetaList | [betalist.com](https://betalist.com) | Early-Stage Startups | Discovery engine for newly launched internet startups and beta software. |
+| Checked | [checked.tools](https://checked.tools) | Checked Prices | Directory of AI tools with the starting price and free option read from each tool's own pricing page. |
 | Dang.ai | [dang.ai](https://dang.ai) | Top AI Tools | Clean catalog showcasing top artificial intelligence software and web utilities. |
 | Easy With AI | [easywithai.com](https://easywithai.com) | AI Navigation | Practical directory organized by use-cases, workflows, and everyday tasks. |
 | FindMyAITool | [findmyaitool.com](https://findmyaitool.com) | AI Finder | Categorized platform allowing makers to showcase tools and gain initial traction. |
