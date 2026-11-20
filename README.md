@@ -33,6 +33,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | BetaList | [betalist.com](https://betalist.com) | Early-Stage Startups | Discovery engine for newly launched internet startups and beta software. |
 | Dang.ai | [dang.ai](https://dang.ai) | Top AI Tools | Clean catalog showcasing top artificial intelligence software and web utilities. |
 | Easy With AI | [easywithai.com](https://easywithai.com) | AI Navigation | Practical directory organized by use-cases, workflows, and everyday tasks. |
+| European AI Tools | [europeanaitools.com](https://europeanaitools.com/) | European AI software | Source-linked profiles and comparisons of AI software from businesses based in Europe; free submissions with manual review. |
 | FindMyAITool | [findmyaitool.com](https://findmyaitool.com) | AI Finder | Categorized platform allowing makers to showcase tools and gain initial traction. |
 | Futurepedia | [futurepedia.io](https://futurepedia.io) | AI Ecosystem | Major platform tracking, indexing, and categorizing verified AI software. |
 | FutureTools | [futuretools.io](https://futuretools.io) | Curated AI Tools | Well-known directory curating the most useful AI tools across industries. |
