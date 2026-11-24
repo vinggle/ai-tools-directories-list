@@ -40,6 +40,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | Product Hunt | [producthunt.com](https://producthunt.com) | Tech Product Launches | Leading global launchpad for new technology, software, and AI startups. |
 | SaaS AI Tools | [saasaitools.com](https://saasaitools.com) | SaaS & B2B Tools | Dedicated platform listing enterprise and consumer software powered by AI. |
 | StartupBase | [startupbase.io](https://startupbase.io) | Startup Community | Platform for discovering early-stage founders, startup products, and tech launches. |
+| Stepthrough | [learn.ynteractive.com](https://learn.ynteractive.com/for-makers) | AI Tools for Work + Lessons | Free AI tool listing + a free hands-on lesson for each tool. |
 | There's An AI For That | [theresanaiforthat.com](https://theresanaiforthat.com) | Comprehensive Directory | High-volume directory categorizing AI tools for virtually any task or workflow. |
 | Toolify.ai | [toolify.ai](https://toolify.ai) | Global AI Index | High-traffic directory analyzing web visits and ranking AI services. |
 | Toolpilot | [toolpilot.ai](https://toolpilot.ai) | AI Review Hub | Interactive platform providing user reviews, rankings, and workflow tips. |
