@@ -42,6 +42,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | StartupBase | [startupbase.io](https://startupbase.io) | Startup Community | Platform for discovering early-stage founders, startup products, and tech launches. |
 | There's An AI For That | [theresanaiforthat.com](https://theresanaiforthat.com) | Comprehensive Directory | High-volume directory categorizing AI tools for virtually any task or workflow. |
 | Toolify.ai | [toolify.ai](https://toolify.ai) | Global AI Index | High-traffic directory analyzing web visits and ranking AI services. |
+| ToolWorthy | [toolworthy.ai](https://www.toolworthy.ai/) | AI Tools Directory | AI tools directory with maintained profiles, alternatives, and category rankings. Vendor submission is one-time paid: Fast Listing $49 or Verified Listing $99. |
 | Toolpilot | [toolpilot.ai](https://toolpilot.ai) | AI Review Hub | Interactive platform providing user reviews, rankings, and workflow tips. |
 | TopAI.tools | [topai.tools](https://topai.tools) | Ranked AI Solutions | Discovery directory ranking applications using aggregated data and categories. |
 | Victrays | [victrays.com](https://victrays.com) | Tech & AI Hub | Directory offering indexing options and traffic exposure for new technology. |
